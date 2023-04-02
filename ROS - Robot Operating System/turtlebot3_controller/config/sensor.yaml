@@ -1,0 +1,4 @@
+scan_subscriber:
+  ros__parameters:
+    my_parameter: "scan"
+    my_queue: 2
